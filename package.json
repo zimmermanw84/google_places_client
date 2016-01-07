@@ -1,0 +1,21 @@
+{
+  "name": "google_places",
+  "version": "0.0.0",
+  "description": "Make Api calls to google places",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "places",
+    "google"
+  ],
+  "author": "Walt Zimmerman",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "~2.3.4",
+    "unirest": "~0.4.2",
+    "query-string": "~3.0.0",
+    "chai": "~3.4.1"
+  }
+}
