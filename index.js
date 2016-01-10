@@ -42,3 +42,4 @@ SomeHuman.membersToString();
 var Walt = new Webmaster('Walt', 31, 2);
 Walt.membersToString();
 Walt.skillToString();
+4;

@@ -31,9 +31,9 @@ class Webmaster extends Human {
 		}
 }
 
-let SomeHuman = new Human(19, 'Billy');
+let SomeHuman: Human = new Human(19, 'Billy');
 SomeHuman.membersToString();
 
-let Walt = new Webmaster('Walt', 31, 2);
+let Walt: Webmaster = new Webmaster('Walt', 31, 2);
 Walt.membersToString();
-Walt.skillToString();
+Walt.skillToString();4
